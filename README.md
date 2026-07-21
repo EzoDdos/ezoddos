@@ -15,4 +15,10 @@ Currently taking professional development courses in:
 - Networking fundamentals
 - And so on
 
+My next step is to make list of future skills.
+Second step, make a projects.
+
 🐈‍⬛ *Love cats*
+☕ *Love coffee*
+🧙 *Love esoteric*
+

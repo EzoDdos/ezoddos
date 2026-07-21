@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hello ppl ✌
 
-<!--
-**EzoDdos/ezoddos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EzoDdos** has its name bcus I believe we people and computers in some ways are the same.
 
-Here are some ideas to get you started:
+So *ezo -> esoteric*, *ddos -> denial of service attack*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've studied applied and theoretical linguistics at MSTU. 
+
+Although it's been four years since I graduated, ~~for obvious reasons~~, only now have I finally found the strength to structure everything.
+
+Currently taking professional development courses in:
+
+- Data analysis
+- Infosec
+- Networking fundamentals
+- And so on
+
+🐈‍⬛ *Love cats*

@@ -22,6 +22,8 @@ My next steps:
 - ✍🏻 Make a huge data base with answers from THE CAT HARITON, who answers about future quite good lol. We will see is it really like that? 
 - ✍🏻 Telegram bots just for fun
 - ✍🏻 Find esoteric books, texts, forums and check it  *all* with SQL.
+- ✍🏻 Make an AI coffe bot (without tarot) 
+- ✍🏻 Make my owm robot
 
 🐈‍⬛ *Love cats*
 ☕ *Love coffee*

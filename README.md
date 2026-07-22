@@ -15,8 +15,13 @@ Currently taking professional development courses in:
 - Networking fundamentals
 - And so on
 
-My next step is to make list of future skills.
-Second step, make a projects.
+My next steps:
+✍🏻 Make the list of future and current skills.
+✍🏻 Make a mini projects like calculator, tarot. 
+✍🏻 Make an open-source AI tarot-coffee bro. Like why not? 
+✍🏻 Make a huge data base with answers from THE CAT HARITON, who answers about future quite good lol. We will see is it really like that? 
+✍🏻 Telegram bots just for fun
+✍🏻 Find esoteric books, texts, forums and check it  *all* with SQL.
 
 🐈‍⬛ *Love cats*
 ☕ *Love coffee*
